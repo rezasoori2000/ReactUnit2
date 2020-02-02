@@ -16,7 +16,7 @@ class  App extends Component {
   newTodo:"",
   isUpdating:false,
   todoIndex:0,
-  todosUrl:'http://5e365ebef7e55d0014ad50f9.mockapi.io',
+  todosUrl:'https://5e365ebef7e55d0014ad50f9.mockapi.io',
   isLoading:false
  };
  this.addItem=this.addItem.bind(this);
